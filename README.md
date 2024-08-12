@@ -1,2 +1,3 @@
-# Location-profiling-of-the-customer
-Learnt and applied clustering algorithm in Python on real time GPS pings from App data . Analysed Geo-location footprints to identify Home Location, Office location using density based clustering . Created key indicators like home-office distance, behavioural information to be used in Credit application model
+#Customer Credit Underwriting Application Model
+I utilized clustering algorithms in Python to analyze real-time GPS data from an app, identifying key locations such as home and office using density-based clustering techniques. This analysis allowed me to generate crucial indicators, including the distance between home and office, as well as behavioral insights, which were integrated into a credit application model.
+
